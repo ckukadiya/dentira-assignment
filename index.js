@@ -8,7 +8,7 @@ const app = express();
 app.use('/search', search);
 
 const main = () =>{
-    console.log('Running amazon');
+    console.log('Dentira Assignment');
 }
 
 

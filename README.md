@@ -11,3 +11,7 @@ Assignment to fetch data from amazon, flipkart, croma and reliance digital
 ## Run
 
     $ npm run start
+    
+## API
+
+    http://localhost:3000/search?q=iphone
